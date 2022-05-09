@@ -5,6 +5,7 @@ module.exports = {
     lang: 'en-US',
     title: 'Right to Repair',
     description: 'Own what you buy',
+    base: '/writing-project/',
     plugins: [
         backToTopPlugin(),
         activeHeaderLinksPlugin({
