@@ -1,0 +1,1 @@
+const t={key:"v-6c615160",path:"/outline.html",title:"Outline",lang:"en-US",frontmatter:{title:"Outline"},excerpt:"",headers:[],git:{updatedTime:1652056593e3,contributors:[{name:"Aidan Hibbard",email:"aidanchibbard@gmail.com",commits:2}]},filePathRelative:"outline.md"};export{t as data};
