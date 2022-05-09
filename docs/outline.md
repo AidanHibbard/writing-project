@@ -16,23 +16,23 @@ title: Outline
 - Right to Repair should be ingrained into our legal system, regardless of safety or intellectual property claims.
 # Body
 - Greener - Less waste, longer device retention
- - Repair individual pieces, no product swapping
- - No planned obsolescence for products
- - Less travel required in
+   - Repair individual pieces, no product swapping
+   - No planned obsolescence for products
+   - Less travel required in
    - Shipping products back / forth
    - Driving to authorized repair centers
 - Jobs - More repair options, mom and pop shops
- - Repair technicians have a needed role within society, providing consumers a local professional
- - Restricting repair procedures closes local repair shops that many agricultural producers may depend on for aging machinery repairs. (ie. John Deere conflict)
+   - Repair technicians have a needed role within society, providing consumers a local professional
+   - Restricting repair procedures closes local repair shops that many agricultural producers may depend on for aging machinery repairs. (ie. John Deere conflict)
 - Cost
- - No costly upgrades after devices loses manufacturer support
- - No choosing between a costly seller warranty, or out of pocket repair from manufacture servicing monopoly
- - Companies using products can hire on hand support staff rather than relying on the manufacturer
+   - No costly upgrades after devices loses manufacturer support
+   - No choosing between a costly seller warranty, or out of pocket repair from manufacture servicing monopoly
+   - Companies using products can hire on hand support staff rather than relying on the manufacturer
 # Counter Arguments
 - Protecting Intellectual Property
- - Keeping devices hard to access protects company secrets
- - Repairs especially those involving software patches violate DRM, and Eula agreements
- - Market could be flooded by knock off, cheaper parts that lead to issues
+   - Keeping devices hard to access protects company secrets
+   - Repairs especially those involving software patches violate DRM, and Eula agreements
+   - Market could be flooded by knock off, cheaper parts that lead to issues
 - Always have product repaired by manufacturer authorized professional
- - Devices may have unsafe parts to disassemble without proper training
- - Device could be damaged by user modification or fix leading to a higher cost repair
+   - Devices may have unsafe parts to disassemble without proper training
+   - Device could be damaged by user modification or fix leading to a higher cost repair
