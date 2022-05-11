@@ -4,7 +4,7 @@ const { defaultTheme } = require('@vuepress/theme-default');
 module.exports = {
     lang: 'en-US',
     title: 'Right to Repair',
-    description: 'Own what you buy',
+    description: 'Own Your Property',
     base: '/writing-project/',
     plugins: [
         backToTopPlugin(),
@@ -18,6 +18,10 @@ module.exports = {
             {
                 text: 'Thesis',
                 link: '/',
+            },
+            {
+                text: 'Counter Arguments',
+                link: '/counter-arguments/',
             },
             {
                 text: 'Outline',
