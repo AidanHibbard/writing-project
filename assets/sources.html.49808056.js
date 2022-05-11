@@ -1,1 +1,0 @@
-import{_ as e,o as s,a as t,b as c,d as o}from"./app.5cf19db5.js";const r={},a={id:"sources-cited",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#sources-cited","aria-hidden":"true"},"#",-1),d=o(" Sources Cited"),n=[_,d];function i(h,u){return s(),t("h1",a,n)}var l=e(r,[["render",i],["__file","sources.html.vue"]]);export{l as default};

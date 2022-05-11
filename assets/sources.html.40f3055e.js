@@ -1,0 +1,1 @@
+const e={key:"v-b4bb04cc",path:"/sources.html",title:"Sources Cited",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:16522301e5,contributors:[{name:"Aidan Hibbard",email:"aidanchibbard@gmail.com",commits:2}]},filePathRelative:"sources.md"};export{e as data};
