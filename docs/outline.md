@@ -12,9 +12,9 @@ title: Outline
  - 2019 - Current more than 20 states openly considering right to repair bill
  - Many public figures support right to repair
  - Organizations lobby for the right to repair legislation like iFixit, an organization dedicated to creating resources to repair "unrepairable" devices.
-## Thesis
+## Bottom Line
 - Right to Repair should be ingrained into our legal system, regardless of safety or intellectual property claims.
-## Body
+## Evaluations
 - Greener - Less waste, longer device retention
    - Repair individual pieces, no product swapping
    - No planned obsolescence for products

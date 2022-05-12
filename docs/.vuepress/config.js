@@ -25,7 +25,7 @@ module.exports = {
                 link: '/counter-arguments/',
             },
             {
-                text: 'Outline',
+                text: 'Historical Outline',
                 link: '/outline/',
             },
             {
