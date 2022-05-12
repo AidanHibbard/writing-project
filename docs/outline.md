@@ -1,20 +1,20 @@
 ---
 title: Outline
 ---
-# Introduction
-- What is Right to Repair?
-   - Proposed legislation allowing consumers to fix, and modify their own property.
-   - Roughly only 20 states have bills codifying individuals right to repair
-   - In 2001 the Motor Vehicles Right to Repair act was killed by the auto makers coalition
-   - 2008 Supreme Court requires cell carriers to unlock devices on consumer request (i.e. Verizon to AT&T)
-   - In 2012 Automotive Right to Repair bill passes in Massachusetts
-   - 2014 South Dakota passes first Electronic Right to Repair bill
-   - 2019 - Current more than 20 states openly considering right to repair bill
-   - Many public figures support right to repair
-   - Organizations lobby for the right to repair legislation like iFixit, an organization dedicated to creating resources to repair "unrepairable" devices.
-# Thesis
+# Historical Outline
+## What is Right to Repair?
+ - Proposed legislation allowing consumers to fix, and modify their own property.
+ - Roughly only 20 states have bills codifying individuals right to repair
+ - In 2001 the Motor Vehicles Right to Repair act was killed by the auto makers coalition
+ - 2008 Supreme Court requires cell carriers to unlock devices on consumer request (i.e. Verizon to AT&T)
+ - In 2012 Automotive Right to Repair bill passes in Massachusetts
+ - 2014 South Dakota passes first Electronic Right to Repair bill
+ - 2019 - Current more than 20 states openly considering right to repair bill
+ - Many public figures support right to repair
+ - Organizations lobby for the right to repair legislation like iFixit, an organization dedicated to creating resources to repair "unrepairable" devices.
+## Thesis
 - Right to Repair should be ingrained into our legal system, regardless of safety or intellectual property claims.
-# Body
+## Body
 - Greener - Less waste, longer device retention
    - Repair individual pieces, no product swapping
    - No planned obsolescence for products
@@ -28,7 +28,7 @@ title: Outline
    - No costly upgrades after devices loses manufacturer support
    - No choosing between a costly seller warranty, or out of pocket repair from manufacture servicing monopoly
    - Companies using products can hire on hand support staff rather than relying on the manufacturer
-# Counter Arguments
+## Counter Arguments
 - Protecting Intellectual Property
    - Keeping devices hard to access protects company secrets
    - Repairs especially those involving software patches violate DRM, and Eula agreements

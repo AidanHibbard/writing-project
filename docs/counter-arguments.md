@@ -1,5 +1,7 @@
 # Counter Arguments
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opponents of Right to Repair bills usually fall back to two important points, that they are protecting company secrets, and providing professional repairs. 
 
+## Intellectual Property
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intellectual Property Laws in the United States are essentially the Bible, giving manufacturers sweeping rights to protect their devices how they see fit. From [Apple's Proprietary anti-repair traps](https://www.treehugger.com/the-pentalobe-screw-and-apples-war-against-self-repair-4857481) in their devices to [Tesla's continued fight against consumer repairs](https://electrek.co/2020/10/14/tesla-fights-right-to-repair-initiative-over-cybersecurity-concerns/) there’s no shortage of examples of companies looking to protect their secrets. As tools become more software dependent, users who use newer products often agree to an Eula service agreement to use the software like on a new phone. By repairing, modifying, or changing any of the code to repair your own device this can land you in serious legal trouble. Todd J. Janzen of Janzen Agricultural Law posted [an opinion piece surrounding the John Deere conflict](https://www.aglaw.us/janzenaglaw/2017/3/29/fixing-the-right-to-repair) in which he argues that the copyright protection on manufacturer software of 90+ years is too long. While the Right to Repair lobbyists may demand zero, a common ground must be met, to which Janzen suggests shortening the length to ten years to help maintain IP protection, but provide consumers a safety net after a time when warranties usually end. There must be a point where the individual no longer depends on the manufacturer to keep a no longer support product alive.
+
+## Professional Repair
 
