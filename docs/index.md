@@ -2,6 +2,7 @@
 title: Thesis
 home: true
 heroImage: https://www.syncron.com/wp-content/uploads/2018/05/right-to-repair-after-sales-service.jpg
+herotext: Image Courtesy of iFixit
 ---
 
 ### Right to Repair should be ingrained into our legal system, regardless of safety or intellectual property claims.
